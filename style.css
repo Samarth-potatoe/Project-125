@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.header
+{
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+}
+
+.page_footer
+{
+    position: fixed;
+    background-color: cadetblue;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    line-height: 25px;
+    color: white;
+    font-style: oblique;
+}
+
+canvas
+{
+    background-color: white;
+    box-shadow: 5px 3px 1px yellowgreen;
+    border: 5px solid black;
+}
